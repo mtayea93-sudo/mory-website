@@ -40,12 +40,14 @@ npm run build
 - `public/1000015569.jpg` - صورة غلاف الرواية
 - `public/مورى.pdf` - ملف الرواية PDF
 
-## النشر
+## النشر على Vercel
 
-يمكن نشر الموقع على:
-- Vercel (موصى به)
-- Netlify
-- GitHub Pages
+1. ارفع المشروع على GitHub
+2. روح على [vercel.com](https://vercel.com)
+3. سجّل دخول بحساب GitHub
+4. اضغط "Add New Project"
+5. اختار `mory-website`
+6. اضغط "Deploy"
 
 ## التواصل
 
